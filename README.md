@@ -1,14 +1,11 @@
-Here's a polished and GitHub-friendly version of your project description, formatted for a `README.md` file:
 
----
-
-# 🧠 HelpHub – A Problem-Solving Collaboration Platform
+# 🤝🤝 HelpHub – A Problem-Solving Collaboration Platform
 
 **HelpHub** is a web-based platform designed to connect individuals who need help with those who can offer it. By enabling users to post technical challenges and allowing skilled individuals to pick them up, HelpHub fosters a collaborative and supportive community focused on shared learning and real-time problem-solving.
 
 ---
 
-## 🚀 Overview
+## Overview
 
 HelpHub facilitates effective knowledge exchange by allowing users to:
 
