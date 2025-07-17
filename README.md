@@ -1,5 +1,6 @@
 **HelpHub a Problem-Solving Collaboration Application**
 Overview: Create a web-based application that enables users to post problems and allows individuals available for assistance to pick up and help resolve those problems. The application aims to foster collaborative problem-solving by connecting individuals in need of help with those who have the expertise and availability to assist.
+
 **Key Features:**
 User Profiles: Users can create and customize profiles, including their skills, areas of expertise, and availability.
 Problem Posting: Users can submit problems, detailing the issue, its context, and any relevant information. Problems can be categorized for easy identification.
